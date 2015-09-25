@@ -37,11 +37,8 @@ containing a value of this type.
          */
         public static int border_width=0x7f010000;
     }
-    public static final class drawable {
-        public static int ic_launcher=0x7f020000;
-    }
     public static final class string {
-        public static int app_name=0x7f030000;
+        public static int app_name=0x7f020000;
     }
     public static final class style {
         /** 
@@ -65,11 +62,11 @@ containing a value of this type.
     
  API 14 theme customizations can go here. 
          */
-        public static int AppBaseTheme=0x7f040000;
+        public static int AppBaseTheme=0x7f030000;
         /**  Application theme. 
  All customizations that are NOT specific to a particular API-level can go here. 
          */
-        public static int AppTheme=0x7f040001;
+        public static int AppTheme=0x7f030001;
     }
     public static final class styleable {
         /** Attributes that can be used with a CircleImageView.
